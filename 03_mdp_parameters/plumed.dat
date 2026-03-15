@@ -1,0 +1,29 @@
+# Well-Tempered Metadynamics — Fe2+ Coordination FES
+# CV1: Fe-GLU184, CV2: Fe-ASP199
+
+fe: GROUP ATOMS=1854
+glu184_o: GROUP ATOMS=1472,1473
+asp199_o: GROUP ATOMS=1718,1719
+
+cv1: DISTANCES GROUPA=fe GROUPB=glu184_o MIN={BETA=50}
+cv2: DISTANCES GROUPA=fe GROUPB=asp199_o MIN={BETA=50}
+
+# Üst duvarlar — CV'lerin grid dışına çıkmasını önle
+UPPER_WALLS ARG=cv1.min AT=4.5 KAPPA=500.0 EXP=2 LABEL=uwall1
+UPPER_WALLS ARG=cv2.min AT=4.5 KAPPA=500.0 EXP=2 LABEL=uwall2
+
+metad: METAD ...
+  ARG=cv1.min,cv2.min
+  SIGMA=0.02,0.02
+  HEIGHT=1.2
+  PACE=500
+  BIASFACTOR=15
+  TEMP=300.0
+  GRID_MIN=0.10,0.10
+  GRID_MAX=5.0,5.0
+  GRID_BIN=500,500
+  CALC_RCT
+  FILE=HILLS
+...
+
+PRINT ARG=cv1.min,cv2.min,metad.bias,metad.rct,uwall1.bias,uwall2.bias STRIDE=100 FILE=COLVAR
