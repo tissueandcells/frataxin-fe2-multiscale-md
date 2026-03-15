@@ -1,0 +1,15 @@
+! B3LYP def2-TZVP def2/J RIJCOSX D3BJ
+! SP
+%maxcore 2000
+
+%scf
+  MaxIter 500
+end
+
+%output
+  Print[P_Mulliken] 1
+  Print[P_Loewdin] 1
+  Print[P_Mayer] 1
+end
+
+* xyzfile 0 5 qm_cluster.xyz
