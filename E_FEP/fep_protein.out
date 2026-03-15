@@ -1,0 +1,1011 @@
+nohup: ignoring input
+=== PROTEIN FEP ===
+Lambda 0 / 20...
+Setting the LD random seed to 2132654559
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 0 done
+Lambda 1 / 20...
+Setting the LD random seed to -33598466
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 1 done
+Lambda 2 / 20...
+Setting the LD random seed to -478186629
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 2 done
+Lambda 3 / 20...
+Setting the LD random seed to -671424529
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 3 done
+Lambda 4 / 20...
+Setting the LD random seed to 1073606651
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 4 done
+Lambda 5 / 20...
+Setting the LD random seed to -521
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 5 done
+Lambda 6 / 20...
+Setting the LD random seed to -545289985
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 6 done
+Lambda 7 / 20...
+Setting the LD random seed to -18883845
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 7 done
+Lambda 8 / 20...
+Setting the LD random seed to -1143115777
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 8 done
+Lambda 9 / 20...
+Setting the LD random seed to -579526785
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 9 done
+Lambda 10 / 20...
+Setting the LD random seed to -553682948
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 10 done
+Lambda 11 / 20...
+Setting the LD random seed to -571303425
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 11 done
+Lambda 12 / 20...
+Setting the LD random seed to -1731225665
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 12 done
+Lambda 13 / 20...
+Setting the LD random seed to 1005779839
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 13 done
+Lambda 14 / 20...
+Setting the LD random seed to -23376243
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 14 done
+Lambda 15 / 20...
+Setting the LD random seed to 1597849305
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 15 done
+Lambda 16 / 20...
+Setting the LD random seed to -134480035
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 16 done
+Lambda 17 / 20...
+Setting the LD random seed to 2143288894
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 17 done
+Lambda 18 / 20...
+Setting the LD random seed to -210637953
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 18 done
+Lambda 19 / 20...
+Setting the LD random seed to 1860163388
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 19 done
+Lambda 20 / 20...
+Setting the LD random seed to 2145353727
+
+Generated 168379 of the 168490 non-bonded parameter combinations
+
+Generated 118012 of the 168490 1-4 parameter combinations
+
+Excluding 3 bonded neighbours molecule type 'Protein_chain_A'
+
+turning H bonds into constraints...
+
+Excluding 1 bonded neighbours molecule type 'FE2'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+turning H bonds into constraints...
+
+Excluding 2 bonded neighbours molecule type 'SOL'
+
+turning H bonds into constraints...
+
+Excluding 3 bonded neighbours molecule type 'NA'
+
+Coupling 1 copies of molecule type 'FE2'
+Analysing residue names:
+There are:   119    Protein residues
+There are:     6        Ion residues
+There are:  7765      Water residues
+Analysing Protein...
+
+The largest distance between non-perturbed excluded atoms is 0.411 nm between atom 1765 and 1772
+
+Determining Verlet buffer for a tolerance of 0.005 kJ/mol/ps at 300 K
+
+Calculated rlist for 1x1 atom pair-list as 1.234 nm, buffer size 0.034 nm
+
+Set rlist, assuming 4x4 atom pair-list, to 1.200 nm, buffer size 0.000 nm
+
+Note that mdrun will redetermine rlist based on the actual pair-list setup
+Calculating fourier grid dimensions for X Y Z
+Using a fourier grid of 60x60x60, spacing 0.117 0.117 0.117
+
+Estimate for the relative computational load of the PME mesh part: 0.30
+
+This run will generate roughly 83 Mb of data
+  ✓ Lambda 20 done
+=== PROTEIN FEP TAMAMLANDI ===
