@@ -1,0 +1,30 @@
+# Large trajectory files 
+*.xtc
+*.trr
+*.tpr
+*.cpt
+*.edr
+
+# GROMACS backup
+\#*\#
+mdout.mdp
+
+# Large binary
+*.gbw
+*.densities
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
