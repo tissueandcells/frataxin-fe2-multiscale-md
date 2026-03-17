@@ -1,0 +1,8 @@
+; Fe2+ ion parameters - Merz et al. 2003
+[ moleculetype ]
+; Name    nrexcl
+FE2         1
+
+[ atoms ]
+; nr  type  resnr  residue  atom  cgnr  charge  mass
+  1   FE     1      FE2      FE    1    +2.000  55.845
