@@ -1,0 +1,8 @@
+numpy>=1.24.0
+scipy>=1.12.0
+pandas>=2.0.0
+MDAnalysis>=2.7.0
+pyemma>=2.5.12
+biopython>=1.81
+matplotlib>=3.8.0
+scikit-learn>=1.3.0
